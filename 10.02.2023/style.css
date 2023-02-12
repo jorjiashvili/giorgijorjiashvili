@@ -1,0 +1,99 @@
+
+.flex-cont{
+    display: flex;
+    border: 2px  black;
+    flex-wrap: wrap;
+}
+
+
+.row{
+    flex-direction: row;
+}
+
+.flexitem{
+text-align: center;
+font-size: 1em;
+padding: 2em;
+color: rgb(0, 0, 0);
+opacity: 0.8;
+
+}
+
+
+
+.color1{
+    background-color:  orange;
+    width: 1000px;
+    height: 25px ;
+    margin: auto;
+    padding-bottom: 100px;
+    
+}
+.color2{
+    background-color: aqua;
+    width: 291px;
+    
+    margin-left: 135px;
+
+}
+.color3{
+    background-color:green;
+    width: 291px;
+}
+.color4{
+    background-color:yellow;
+    width: 290px;
+}
+.color5{
+    background-color: rgb(255, 223, 80);
+    height: 100px;
+    width: 291px;
+    margin-left: 135px;
+    
+}
+.color6{
+    background-color: pink;
+    width: 291px;
+    
+}
+.color7{
+    background-color: red;
+    width: 291px;
+    
+}
+.color8{
+    background-color:darkgoldenrod;
+    height: 100px;
+    width: 291px;
+    margin-left: 135px;
+}
+.color9{
+    background-color:aquamarine;
+    width: 291px;
+    
+}
+.color10{
+    background-color:blue ;
+    width: 291px;
+}
+.color11{
+    background-color:rgb(214, 155, 87);
+    width: 291px;
+    
+    margin-left: 135px;
+}
+.color12{
+    background-color: palevioletred;
+    width: 291px;
+}
+.color13{
+background-color: cyan;
+    width: 291px;
+}
+.color14{
+    background-color: green;
+    width: 1000px;
+    height: 25px ;
+    margin: auto;
+    
+}
